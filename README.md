@@ -1,5 +1,5 @@
 # SAP HANACleaner #
-A house keeping script for SAP HANA
+A housekeeping script for SAP HANA
 ---
 
 ### DESCRIPTION:  
